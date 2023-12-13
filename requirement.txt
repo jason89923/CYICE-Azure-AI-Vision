@@ -1,0 +1,8 @@
+flask
+requests
+python-dotenv
+pylint
+matplotlib
+pillow
+numpy
+azure-ai-vision
